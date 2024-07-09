@@ -1,2 +1,4 @@
 # Loại trừ các tệp môi trường
 .env
+# Loại trừ node_modules
+node_modules/
